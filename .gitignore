@@ -8,6 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+.jpg
+.JPEG
 env/
 build/
 develop-eggs/
