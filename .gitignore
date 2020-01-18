@@ -7,12 +7,16 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.Python
-.jpg
-.JPEG
+*.Python
+*.jpg
+*.JPG
+*.JPEG
+#Dataset/
+
+
 env/
 build/
-develop-eggs/
+dfevelop-eggs/
 dist/
 downloads/
 eggs/
