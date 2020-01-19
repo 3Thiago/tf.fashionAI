@@ -17,10 +17,10 @@ import os
 DEBUG = False
 PRED_DEBUG = False
 
-DATA_DIR = '../Datasets'
-RECORDS_DATA_DIR = '../Datasets/tfrecords'
-TEST_RECORDS_DATA_DIR = '../Datasets/tfrecords_test'
-TEST_RECORDS_STAGE2 = '../Datasets/tfrecords_test_stage2'
+DATA_DIR = '/content/tf.fashionAI/Datasets'
+RECORDS_DATA_DIR = '/content/tf.fashionAI/Datasets/tfrecords'
+TEST_RECORDS_DATA_DIR = '/content/tf.fashionAI/Datasets/tfrecords_test'
+TEST_RECORDS_STAGE2 = '/content/tf.fashionAI/Datasets/tfrecords_test_stage2'
 
 CATEGORIES = ['blouse', 'dress', 'outwear', 'skirt', 'trousers']
 SPLITS = ['test_0', 'train_1', 'train_2', 'train_3']#'train_0',
