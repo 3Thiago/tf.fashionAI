@@ -8,8 +8,8 @@ __pycache__/
 
 # Distribution / packaging
 *.Python
-*.jpg
-*.JPG
+#*.jpg
+#*.JPG
 #*.JPEG
 #Dataset/train_0/
 #Dataset/train_1/
